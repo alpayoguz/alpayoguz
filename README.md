@@ -10,7 +10,7 @@ Some of my projects 👍 👍 👍
  - Live Site : https://e-commerce-e8711.web.app/
  - Source Code : https://github.com/alpayoguz/eCommerce
 
-** Netflix Clone** 
+**Netflix Clone** 
  - Live Site : https://netflix-clone-b26fb.web.app/
  - Source Code : https://github.com/alpayoguz/netflix-clone
 
