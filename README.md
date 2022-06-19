@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**alpayoguz/alpayoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of my projects 
 
-Here are some ideas to get you started:
+*Dota Stats
+ - Live Site : https://dotastats-e7189.web.app/
+ - Source Code :https://github.com/alpayoguz/dotaStats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Shopself 
+ - Live Site : https://e-commerce-e8711.web.app/
+ - Source Code : https://github.com/alpayoguz/eCommerce
+
+* Netflix Clone 
+ - Live Site : https://netflix-clone-b26fb.web.app/
+ - Source Code : https://github.com/alpayoguz/netflix-clone
+
+*Dictionary 
+ - Live Site : https://dictionary-a582b.web.app/
+ - Source Code : https://github.com/alpayoguz/dictionary
